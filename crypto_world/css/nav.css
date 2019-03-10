@@ -9,7 +9,7 @@ ul#menu a {
 }
 
 #menu li.active a {
-  background: black;
+  background: #E71D36;
   padding: .5em 2em .5em 2em;
   color: white;
 }
